@@ -1,8 +1,6 @@
 
 # Diagrama de Secuencia - Crear una Nueva Nota
 
-Este diagrama describe lo que ocurre cuando el usuario crea una nueva nota en la página [https://studies.cs.helsinki.fi/exampleapp/notes](https://studies.cs.helsinki.fi/exampleapp/notes) escribiendo algo en el campo de texto y haciendo clic en el botón **Save**.
-
 ```mermaid
 sequenceDiagram
     participant browser
